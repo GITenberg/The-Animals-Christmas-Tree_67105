@@ -1,0 +1,27 @@
+_repo: The-Animals-Christmas-Tree_67105
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Peters, The Rev. John P.
+    gutenberg_agent_id: '54118'
+    url: http://www.gutenberg.org/2009/agents/54118
+description: ''
+gutenberg_issued: '2022-01-05'
+identifiers:
+  gutenberg: '67105'
+language: en
+pgterms:marc904: https://archive.org/details/animalschristmas00pete/page/n9/mode/2up
+pgterms:marc905: 20211118183557peters
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Charlene Taylor, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :E. P. Dutton & Company,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Animals' Christmas Tree
+url: http://www.gutenberg.org/ebooks/67105
