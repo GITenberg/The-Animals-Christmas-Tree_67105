@@ -1,11 +1,16 @@
 _repo: The-Animals-Christmas-Tree_67105
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67105-h/images/cover.jpg
 creator:
   author:
     agent_name: Peters, The Rev. John P.
     gutenberg_agent_id: '54118'
     url: http://www.gutenberg.org/2009/agents/54118
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67105#The-Animals-Christmas-Tree
 gutenberg_issued: '2022-01-05'
 identifiers:
   gutenberg: '67105'
